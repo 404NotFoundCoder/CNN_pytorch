@@ -1,1 +1,7 @@
 venv/
+simpson/
+simpson_test/
+simpson_test_all/
+simpson_train/
+unused_models/
+mlp4.model
